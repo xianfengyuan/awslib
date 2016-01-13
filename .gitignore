@@ -1,0 +1,9 @@
+node_modules
+venv
+*.pyc
+*.swp
+tmp
+.vagrant
+mkmf.log
+.DS_Store
+Berksfile.lock
